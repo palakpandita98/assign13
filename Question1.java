@@ -2,9 +2,9 @@ import java.util.*;
  class Question1 {
   public static void main(String[] args) {
      
-        HashSet<String> H1 = new HashSet<String>(); // First empty HashSet
+        HashSet<String> H1 = new HashSet<String>(); 
 
-          // use add() method to add values in the hash set
+          
           H1.add("C");
           H1.add("C++");
           H1.add("JAVA");
